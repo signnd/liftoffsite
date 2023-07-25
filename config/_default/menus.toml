@@ -28,8 +28,8 @@
 
 [[main]]
     # Top-level menu entry
-    identifier = "writing"
-    name = "Writing"
+    identifier = "post"
+    name = "Post"
     url = "/posts/"
     weight = 4
 
@@ -37,7 +37,7 @@
     identifier = "posts"
     name = "All Posts"
     url = "/posts/"
-    parent = "writing"
+    parent = "post"
     weight = 4
 
 [[main]]
@@ -45,7 +45,7 @@
     name = "Subsection"
     url = "/subsection/"
     # url = "/posts/subsection/" # Remove url param from subsection/_index.md frontmatter to use full permalink
-    parent = "writing"
+    parent = "post"
     weight = 5
 
 [[main]]
