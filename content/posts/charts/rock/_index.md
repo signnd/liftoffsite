@@ -1,13 +1,13 @@
 ---
-title: Bundle One
-seo_title: Bundle One
+title: Rock
+seo_title: Rock
 summary: 
 description: 
-slug: bundle-one
+slug: rock
 author: John Doe
 
-draft: true
-date: 2023-07-25T18:22:24+08:00
+draft: false
+date: 2023-07-28T15:38:16+08:00
 lastmod: 
 expiryDate: 
 publishDate: 
