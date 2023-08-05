@@ -13,6 +13,20 @@
     weight = 1
 
 [[main]]
+    # Top-level menu entry
+    identifier = "phoenix"
+    name = "Phoenix"
+    url = "/categories/phoenix/"
+    weight = 1
+
+[[main]]
+    identifier = "new-release"
+    name = "New Release"
+    url = "/tags/new-release/"
+    parent = "phoenix"
+    weight = 2
+
+[[main]]
     identifier = "posts"
     name = "All Posts"
     url = "/posts/"
